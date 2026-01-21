@@ -1,0 +1,153 @@
+HEADER{
+    background-color:purple;
+    text-align:center;
+    padding:10px
+}
+footer{
+    background-color:purple;
+    text-align:center;
+    padding:10px;
+    font-color:whitesmoke
+
+}
+nav{
+    overflow:hidden;
+    background-color: orchid;
+}
+/* navar links */
+nav a{
+    float:left;
+    display: block;
+    color:whitesmoke;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none
+
+}
+
+nav a:hover{
+    background-color:red;
+    color:brown
+}
+/* formatting hero section */
+.hero{
+min-height: 500px;
+background: linear-gradient(
+    rgba(0,0,0,0.6),
+    rgba(0,0,0,0.6)
+),
+url("image1.jpg");
+background-size:cover;
+background-position:center;
+display:flex;
+align-items:center;
+justify-content:center;
+text-align:center;
+padding:40px 20px
+
+}
+.hero-content{
+    min-width: 800px;
+    color:whitesmoke
+}
+.hero h2{
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 20px;
+    color: whitesmoke;
+}
+.hero p{
+    font-size: 1.5rem;
+    color: whitesmoke;
+}
+.hero button{
+    display:flex;
+    gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+header{
+    background-color:purple;
+    text-align:center;
+    padding:10px
+
+}
+footer{
+    background-color:purple;
+    text-align:center;
+    padding:10px;
+    font-color:whitesmoke
+}
+nav{
+  overflow:hidden;
+  background-color:orchid 
+}
+nav a{
+    float:left;
+    display:block;
+    color:aqua;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration:none
+}
+nav a:hover{
+    background-color:red;
+    color:brown
+}
+/* formatting hero section */
+.hero{
+min-height: 500px;
+background: linear-gradient(
+    rgba(0,0,0,0.6),
+    rgba(0,0,0,0.6)
+),
+url("image1.jpg");
+background-size:cover;
+background-position:center;
+display:flex;
+align-items:center;
+justify-content:center;
+text-align:center;
+padding:40px 20px
+
+}
+.hero-content{
+    min-width: 800px;
+    color:whitesmoke
+}
+.hero h2{
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-bottom: 20px;
+    color: whitesmoke;
+}
+.hero p{
+    font-size: 1.5rem;
+    color: whitesmoke;
+}
+.hero a{
+    color: white;
+}
+.hero li{
+    color: white;
+}
+body{
+    background-color: aqua;
+}
+form{
+    margin: 60px;
+}
+
+input[type="text" ], 
+input[type="Email"], 
+
+
+    
+
+
+
+
+
+
+
+
